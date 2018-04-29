@@ -1,2 +1,13 @@
-# Universal-Discord-Tags
+# Universal Discord Tags
 A collection of user tags on discord, for use with themes, or stand alone.
+
+# Usage
+To import this into your theme, put the following code at the top with your other imports (If you have them)
+
+`@import(https://rawgit.com/TheHeroBilly/Universal-Discord-Tags/master/tags.css);`
+
+You can also just add that line in Custom CSS, if you can't put it in the theme file directly (IE, someone else maintains the theme).
+
+# Explanation
+
+This is loosely based on Omni's tag system, but it's open for anyone to make a PR and add their own tags, (assuming the PR doesn't remove or change anyone else's) there will be an template bit at the top for people to use, so you don't need to entirely create your own.
