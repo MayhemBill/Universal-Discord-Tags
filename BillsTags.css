@@ -1,0 +1,151 @@
+.message-group:not(.compact) .avatar-large[style*="ID"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="ID"] ~ .member-inner .member-username .member-username-inner::after{content:"TAG";background:color;color:#fff;border-radius:3px;border: 1px solid transparent;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;}
+
+/* Bill's Stuff */
+
+.message-group:not(.compact) .avatar-large[style*="144550650842316800"] ~ .comment .message h2 span.username-wrapper::before{
+    content: "`";
+    background-image: url(https://rawgit.com/cubeguy/cube_repo/master/icons/Discord_Tag.gif);
+    background-size: 25px;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    width: 0px;
+    left: -3px;
+    padding: 0px 10px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    line-height: 16px !important;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    position: relative;
+    margin-left: -28px;
+}
+.message-group .avatar-large[style*="144550650842316800"]{
+    box-shadow: 0px 0px 0px 0px !important;
+}
+.message-group:not(.compact) .avatar-large[style*="144550650842316800"] ~ .comment .message h2 .timestamp {
+    margin-left: 4px;
+}
+.chat .avatar-large[style*="144550650842316800"] ~ .comment .message h2 {
+    transform: translateX(30px);
+}
+
+.message-group:not(.compact) .avatar-large[style*="144550650842316800"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="144550650842316800"] ~ .member-inner .member-username .member-username-inner::after {content:"Galaxy";color: rgba(255, 255, 255, 0.3);background-image: url(https://i.imgur.com/7caQVTp.gif) !important;border-radius: 3px;margin-left: 6px;font-size: 10px;padding: 2px 6px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 1px #000;}
+
+.message-group:not(.compact) .avatar-large[style*="144550650842316800"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="144550650842316800"] ~ .member-inner .member-username .member-username-inner::after{content:"His Code Works";background:none;color:var(--main-color);border-radius:11px;border: 2px solid #672382;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;-webkit-filter: hue-rotate(360deg) invert();animation: hue-rotate 1.5s linear infinite;}
+
+/* Clicks Stuff */
+
+.message-group:not(.compact) .avatar-large[style*="148668664688803840"] ~ .comment .message h2 span.username-wrapper::before{
+    content: "`";
+    background-image: url(https://img00.deviantart.net/8b74/i/2016/129/1/8/hanzo_by_robert93nww-da1w1wt.png);
+    background-size: 20px;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    width: 0px;
+    left: -3px;
+    padding: 0px 10px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    line-height: 16px !important;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    position: relative;
+    margin-left: -28px;
+}
+.message-group .avatar-large[style*="148668664688803840"]{
+    box-shadow: 0px 0px 0px 0px !important;
+}
+.message-group:not(.compact) .avatar-large[style*="148668664688803840"] ~ .comment .message h2 .timestamp {
+    margin-left: 4px;
+}
+.chat .avatar-large[style*="148668664688803840"] ~ .comment .message h2 {
+    transform: translateX(30px);
+}
+
+/* Maudes Stuff */
+
+.message-group:not(.compact) .avatar-large[style*="355472631761338368"] ~ .comment .message h2 span.username-wrapper::before{
+    content: "`";
+    background-image: url(https://i.pinimg.com/originals/7a/a1/ec/7aa1ec46754b58a4b28cf3b6b7e83897.png);
+    background-size: 20px;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    width: 0px;
+    left: -3px;
+    padding: 0px 10px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    line-height: 16px !important;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    position: relative;
+    margin-left: -28px;
+}
+.message-group .avatar-large[style*="355472631761338368"]{
+    box-shadow: 0px 0px 0px 0px !important;
+}
+.message-group:not(.compact) .avatar-large[style*="355472631761338368"] ~ .comment .message h2 .timestamp {
+    margin-left: 4px;
+}
+.chat .avatar-large[style*="355472631761338368"] ~ .comment .message h2 {
+    transform: translateX(30px);
+}
+.message-group:not(.compact) .avatar-large[style*="355472631761338368"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="355472631761338368"] ~ .member-inner .member-username .member-username-inner::after {content:"Galaxy";color: rgba(255, 255, 255, 0.3);background-image: url(https://i.imgur.com/7caQVTp.gif) !important;border-radius: 3px;margin-left: 6px;font-size: 10px;padding: 2px 6px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 1px #000;}
+
+.message-group:not(.compact) .avatar-large[style*="355472631761338368"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="355472631761338368"] ~ .member-inner .member-username .member-username-inner::after{content:"She's Hella Gay";background:none;color:var(--main-color);border-radius:11px;border: 2px solid #672382;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;text-shadow: 0px 1px 3px #000;-webkit-filter: hue-rotate(360deg) invert();animation: hue-rotate 1.5s linear infinite;}
+
+/*Jon's Stuff*/
+.message-group:not(.compact) .avatar-large[style*="213710386132680704"] ~ .comment .message h2 span.username-wrapper::before{
+    content: "`";
+    background-image: url(https://rawgit.com/cubeguy/cube_repo/master/icons/Discord_Tag.gif);
+    background-size: 25px;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    width: 0px;
+    left: -3px;
+    padding: 0px 10px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    line-height: 16px !important;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    position: relative;
+    margin-left: -28px;
+}
+.message-group .avatar-large[style*="213710386132680704"]{
+    box-shadow: 0px 0px 0px 0px !important;
+}
+.message-group:not(.compact) .avatar-large[style*="213710386132680704"] ~ .comment .message h2 .timestamp {
+    margin-left: 4px;
+}
+.chat .avatar-large[style*="213710386132680704"] ~ .comment .message h2 {
+    transform: translateX(30px);
+}
+
+/*Ike's Stuff*/
+.message-group:not(.compact) .avatar-large[style*="162572456970813441"] ~ .comment .message h2 span.username-wrapper::before{
+    content: "`";
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Star_of_David3.svg/884px-Star_of_David3.svg.png);
+    background-size: 20px;
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    width: 0px;
+    left: -3px;
+    padding: 0px 10px;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    line-height: 16px !important;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    position: relative;
+    margin-left: -28px;
+}
+.message-group .avatar-large[style*="162572456970813441"]{
+    box-shadow: 0px 0px 0px 0px !important;
+}
+.message-group:not(.compact) .avatar-large[style*="162572456970813441"] ~ .comment .message h2 .timestamp {
+    margin-left: 4px;
+}
+.chat .avatar-large[style*="162572456970813441"] ~ .comment .message h2 {
+    transform: translateX(30px);
+}
